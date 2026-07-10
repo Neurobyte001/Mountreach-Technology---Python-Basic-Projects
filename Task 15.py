@@ -69,7 +69,7 @@ print(df.isnull().sum())
 #=====================================================================
 
 # Displaying number of unique values
-print("\nUnique Values:")
+print("\nQ. Unique Values:")
 print(df.nunique())
 
 # Displaying five random rows
