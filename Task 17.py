@@ -73,6 +73,11 @@ print("Rows with Cholesterol = 0 :", chol_zero)
 
 print("Rows with RestingBP = 0 :", bp_zero)
 
+
+#===============================================================
+#===============================================================
+
+
 print("\n\nQ5. Clean the Invalid Values")
 
 # Displaying statistical summary before cleaning
